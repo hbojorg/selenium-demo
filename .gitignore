@@ -1,0 +1,15 @@
+# folders
+.gradle/
+.idea/
+.idea_backup/**
+build/
+classes/
+gen/
+#lib/
+logs/
+out/
+target/
+.mvn/
+
+# files
+*.iml
